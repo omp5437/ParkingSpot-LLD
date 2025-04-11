@@ -32,7 +32,7 @@ public class Main {
                 flag=true;
             }
             else if(type.equals("FOURWHEELER")){
-                vehicleType=VehicleType.TWOWHEELER;
+                vehicleType=VehicleType.FOURWHEELER;
                 flag=true;
             }else if(type.equals("TRUCK")){
                 vehicleType=VehicleType.TRUCK;
